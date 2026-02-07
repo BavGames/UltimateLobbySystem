@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{C5C460F6-4BC9-07BC-0886-1DA894FB31D2}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UltimateLobby",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
